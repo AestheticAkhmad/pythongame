@@ -1,3 +1,13 @@
+Requirements:
+1. Python3 version 3.9.7 or above
+
+How to run the program:
+1. Download the file
+2. Go to the terminal/cmd
+4. In the terminal navigate to the folder with main.py file
+3. Run the command 'python3 main.py'
+4. Start the game
+
 The game rules:
 1.	The initial number is given.
 2.	The number for winning is given (must be less than initial number).
